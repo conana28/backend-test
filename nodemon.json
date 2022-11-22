@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER": "wtuser",
+    "DB_PASSWORD": "8fOMKjrds9dlcW8K",
+    "DB_NAME": "winetrak"
+  }
+}
